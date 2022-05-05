@@ -1,0 +1,5 @@
+pwd
+ls
+cd vertigo/
+pwd
+cd..   back to desktop
